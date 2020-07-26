@@ -1,0 +1,6 @@
+bin
+obj
+.vscode/*
+.vscode
+LICENSE
+node_modules
